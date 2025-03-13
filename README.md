@@ -26,7 +26,7 @@ This project is licensed under the MIT License.
 
 ## 🌐 Demo
 🎵 Experience the joy of playing a virtual piano right in your browser.
-🔗 [Live Demo](https://LakshmiPriyaRajaram.github.io/playablepiano)
+🔗 [Live Demo](https://LakshmiPriyaRajaram.github.io/PlayablePiano)
 
 Enjoy playing the piano online! 🎶🎹
 
